@@ -19,12 +19,12 @@ export  class banco{
 
         }
     verAgencia(){
-        console.log(`A Agência do Banco ABC - BRASIL é: ${this.agencia}`)
+        console.log(`A Agência do Banco GENERATION - BRASIL é: ${this.agencia}`)
     }
     verCnpj(){
-        console.log(`O CNPJ do Banco ABC - BRASIL é: ${this.cnpj}`)
+        console.log(`O CNPJ do Banco GENERATION - BRASIL é: ${this.cnpj}`)
     }
     verEndereco(){
-        console.log(`O Endereço do Banco ABC - BRASIL é: ${this.endereco}`)
+        console.log(`O Endereço do Banco GENERATION - BRASIL é: ${this.endereco}`)
     }
 }
