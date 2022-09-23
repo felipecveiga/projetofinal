@@ -19,12 +19,15 @@ export  class banco{
 
         }
     verAgencia(){
-        console.log(`A Agência do Banco GENERATION - BRASIL é: ${this.agencia}`)
+        console.log(`A Agência do Banco Generation - Brasil é: ${this.agencia}`)
     }
     verCnpj(){
-        console.log(`O CNPJ do Banco GENERATION - BRASIL é: ${this.cnpj}`)
+        console.log(`O CNPJ do Banco Generation - Brasil é: ${this.cnpj}`)
+    }
+    verTelefone(){
+        console.log(`O numero de telefone do Banco Generation - Brasil é: ${this.telefone}`)
     }
     verEndereco(){
-        console.log(`O Endereço do Banco GENERATION - BRASIL é: ${this.endereco}`)
+        console.log(`O Endereço do Banco Generation - BRASIL é: ${this.endereco}`)
     }
 }
